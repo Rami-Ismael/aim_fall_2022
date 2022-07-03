@@ -68,3 +68,22 @@ So let’s start our analysis by training a baseline model. For text classificat
 - Get the Recall macro and micro value
 
 End ( First Technical Blog)`
+## Reference
+```
+@article{madewithml,
+    author       = {Goku Mohandas},
+    title        = { Splitting - Made With ML },
+    howpublished = {\url{https://madewithml.com/}},
+    year         = {2021}
+}
+@ARTICLE{2017arXiv170201460S,
+   author = {{Szyma{\'n}ski}, P. and {Kajdanowicz}, T.},
+   title = "{A scikit-based Python environment for performing multi-label classification}",
+   journal = {ArXiv e-prints},
+   archivePrefix = "arXiv",
+   eprint = {1702.01460},
+   year = 2017,
+   month = feb
+}
+https://androidkt.com/micro-macro-averages-for-imbalance-multiclass-classification/
+```
